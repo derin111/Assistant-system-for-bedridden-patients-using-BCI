@@ -40,6 +40,6 @@ The system that we proposed utilizes the widely used and non -invasive eeg captu
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-<img src="Block diagram/ss.JPG" alt="Logo" width="80" height="80">
+<img src="Block diagram/ss.JPG" alt="Logo" width=70% height=50%>
 
 
