@@ -2,16 +2,14 @@
 ## Table of Contents
 
 * [System discription](#about-the-project)
-  * [Built With](#built-with)
+* [Built With](#built-with)
 * [Objective](#objective)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
+
 * [Block Diagram](#block-diagram)
 * [Signal Procesing](#Signal-Procesing)
 * [3D model](#3D-Model)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
+
+
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
