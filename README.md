@@ -6,7 +6,7 @@
 * [Objective](#objective)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
-* [Usage](#usage)
+* [Block Diagram](#block diagram)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license)
@@ -35,3 +35,11 @@ This section should list any major frameworks that you built your project using.
 To provide a better and efficient solution to the problems faced by the bedriden especially the paralysed patients.
 
 The system that we proposed utilizes the widely used and non -invasive eeg capturing technology to develop an assistance to the paralysed patients.
+
+
+<!-- USAGE EXAMPLES -->
+## Usage
+
+<img src="Block-Diagram/ss.png" alt="Logo" width="80" height="80">
+
+
