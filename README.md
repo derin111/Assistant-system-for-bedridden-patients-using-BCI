@@ -3,7 +3,7 @@
 
 * [System discription](#about-the-project)
   * [Built With](#built-with)
-* [Getting Started](#getting-started)
+* [Objective](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
@@ -28,3 +28,9 @@ This system helps the patient to control his bed and control the electrical appl
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Arduino IDE](https://www.arduino.cc/)
 * [Python](https://www.python.org/)
+
+<!-- GETTING STARTED -->
+## Objective
+
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
