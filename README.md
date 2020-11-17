@@ -32,5 +32,6 @@ This section should list any major frameworks that you built your project using.
 <!-- GETTING STARTED -->
 ## Objective
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+To provide a better and efficient solution to the problems faced by the bedriden especially the paralysed patients.
+
+The system that we proposed utilizes the widely used and non -invasive eeg capturing technology to develop an assistance to the paralysed patients.
