@@ -3,7 +3,7 @@
 
 * [System discription](#about-the-project)
   * [Built With](#built-with)
-* [Objective](#getting-started)
+* [Objective](#objective)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
