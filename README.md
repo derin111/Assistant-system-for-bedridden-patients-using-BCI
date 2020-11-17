@@ -42,4 +42,10 @@ The system that we proposed utilizes the widely used and non -invasive eeg captu
 
 <img src="Block diagram/ss.JPG" alt="Logo" width=90% height=70%>
 
+## 3D Model
+<img src="Block diagram/ss.JPG" alt="Logo" width=90% height=70%>
+
+<img src="Block diagram/ss.JPG" alt="Logo" width=90% height=70%>
+
+<img src="Block diagram/ss.JPG" alt="Logo" width=90% height=70%>
 
