@@ -7,8 +7,8 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Block Diagram](#block diagram)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
+* [Signal Procesing](#Signal Procesing)
+* [3D model](#3D Model)
 * [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
@@ -44,6 +44,11 @@ The system that we proposed utilizes the widely used and non -invasive eeg captu
 <img src="Block diagram/blockdiagram.JPG" alt="Logo" width=90% height=70%>
 
 ## 3D Model
+<img src="3D Model/model1.png" alt="Logo" width=90% height=70%>
+
+<img src="3D Model/model2.png" alt="Logo" width=90% height=70%>
+
+## Signal Procesing
 <img src="3D Model/model1.png" alt="Logo" width=90% height=70%>
 
 <img src="3D Model/model2.png" alt="Logo" width=90% height=70%>
