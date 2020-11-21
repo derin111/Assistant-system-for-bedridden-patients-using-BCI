@@ -4,12 +4,18 @@
 * [System discription](#about-the-project)
 * [Built With](#built-with)
 * [Objective](#objective)
-
+* [Built With](#built-with)
+* [Demo Video](#demo-video)
 * [Block Diagram](#block-diagram)
 * [Signal Procesing](#Signal-Procesing)
 * [3D model](#3D-Model)
 
 
+## Objective
+
+To provide a better and efficient solution to the problems faced by the bedriden especially the paralysed patients.
+
+The system that we proposed utilizes the widely used and non -invasive eeg capturing technology to develop an assistance to the paralysed patients.
 
 
 ## About The Project
@@ -32,11 +38,6 @@ This system helps the patient to control his bed and control the electrical appl
 * [TV controlling Video](https://drive.google.com/file/d/17dgpu1XyKAcuZN3Ef6ExNl2B-av4Xwdj/view?usp=sharing)
 
 
-## Objective
-
-To provide a better and efficient solution to the problems faced by the bedriden especially the paralysed patients.
-
-The system that we proposed utilizes the widely used and non -invasive eeg capturing technology to develop an assistance to the paralysed patients.
 
 ## Block Diagram
 
