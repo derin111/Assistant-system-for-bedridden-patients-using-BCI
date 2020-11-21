@@ -26,6 +26,12 @@ This system helps the patient to control his bed and control the electrical appl
 * [Python](https://www.python.org/)
 * [Fusion 360](https://www.autodesk.in/products/fusion-360/overview)
 
+### Demo Video
+
+* [Bed controlling Video](https://drive.google.com/file/d/1t3l45sZAz3fP_DSsVyB-Xm205aCmimSq/view?usp=sharing)
+* [TV controlling Video](https://drive.google.com/file/d/17dgpu1XyKAcuZN3Ef6ExNl2B-av4Xwdj/view?usp=sharing)
+
+
 ## Objective
 
 To provide a better and efficient solution to the problems faced by the bedriden especially the paralysed patients.
