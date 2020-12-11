@@ -1,7 +1,7 @@
 # Assistant-system-for-bedridden-patients-using-BCI
 ## Table of Contents
 
-* [System discription](#about-the-project)
+* [System description](#about-the-project)
 * [Built With](#built-with)
 * [Objective](#objective)
 * [Built With](#built-with)
